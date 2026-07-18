@@ -1,6 +1,6 @@
 # PHP User Management System
 
-A custom PHP and MySQL web application 1 for managing users, admins, and members. It includes features for user registration, secure authentication, role-based dashboards, and complete CRUD (Create, Read, Update, Delete) operations on user profiles.
+A custom PHP and MySQL web application for managing users, admins, and members. It includes features for user registration, secure authentication, role-based dashboards, and complete CRUD (Create, Read, Update, Delete) operations on user profiles.
 
 ## Features
 
